@@ -16,27 +16,27 @@
 
 > Folders with all materials for specific task/domain
 
-* [AR VR](https://github.com/ElizaLo/Data-Science/tree/master/AR%20VR) ⭐ 407 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2024-11-07
-* [Class Imbalance Problem](https://github.com/ElizaLo/Data-Science/tree/master/Class%20Imbalance%20Problem) ⭐ 407 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2024-11-07
-* [Cloud Computing](https://github.com/ElizaLo/Data-Science/tree/master/Cloud%20Computing) ⭐ 407 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2024-11-07
-  * [AWS (Amazon Web Services)](https://github.com/ElizaLo/Data-Science/tree/master/Cloud%20Computing/AWS%20\(Amazon%20Web%20Services\)) ⭐ 407 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2024-11-07
-* [Data Analysis](https://github.com/ElizaLo/Data-Science/tree/master/Data%20Analysis) ⭐ 407 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2024-11-07
-* [Data Analytics](https://github.com/ElizaLo/Data-Science/tree/master/Data%20Analytics) ⭐ 407 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2024-11-07
-* [Data Engineering](https://github.com/ElizaLo/Data-Science/tree/master/Data%20Engineering) ⭐ 407 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2024-11-07
-* [Data Preprocessing](https://github.com/ElizaLo/Data-Science/tree/master/Data%20Preprocessing) ⭐ 407 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2024-11-07
-* [Data Processing](https://github.com/ElizaLo/Data-Science/tree/master/Data%20Processing) ⭐ 407 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2024-11-07
-* [Data Science Life Cycle Methodologies](https://github.com/ElizaLo/Data-Science/tree/master/Data%20Science%20Life%20Cycle%20Methodologies) ⭐ 407 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2024-11-07
-* [Data Warehouse](https://github.com/ElizaLo/Data-Science/tree/master/Data%20Warehouse) ⭐ 407 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2024-11-07
-* [Data-Centric AI](https://github.com/ElizaLo/Data-Science/tree/master/Data-Centric%20AI) ⭐ 407 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2024-11-07
-* [Data](https://github.com/ElizaLo/Data-Science/tree/master/Data) ⭐ 407 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2024-11-07
-* [Graph Neural Networks](https://github.com/ElizaLo/Data-Science/tree/master/Graph%20Neural%20Networks) ⭐ 407 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2024-11-07
-* [Machine Learning Ops (MLOps)](https://github.com/ElizaLo/Data-Science/tree/master/MLOps) ⭐ 407 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2024-11-07
-* [Optimization](https://github.com/ElizaLo/Data-Science/tree/master/Optimization) ⭐ 407 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2024-11-07
-* [Overfitting](https://github.com/ElizaLo/Data-Science/tree/master/Overfitting) ⭐ 407 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2024-11-07
-* [Pipelines](https://github.com/ElizaLo/Data-Science/tree/master/Pipelines) ⭐ 407 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2024-11-07
-* [SQL](https://github.com/ElizaLo/Data-Science/tree/master/SQL) ⭐ 407 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2024-11-07
-* [Statistics](https://github.com/ElizaLo/Data-Science/tree/master/Statistics) ⭐ 407 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2024-11-07
-* [Tools and Tips](https://github.com/ElizaLo/Data-Science/tree/master/Tools%20and%20Tips) ⭐ 407 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2024-11-07
+* [AR VR](https://github.com/ElizaLo/Data-Science/tree/master/AR%20VR) ⭐ 408 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2024-11-07
+* [Class Imbalance Problem](https://github.com/ElizaLo/Data-Science/tree/master/Class%20Imbalance%20Problem) ⭐ 408 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2024-11-07
+* [Cloud Computing](https://github.com/ElizaLo/Data-Science/tree/master/Cloud%20Computing) ⭐ 408 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2024-11-07
+  * [AWS (Amazon Web Services)](https://github.com/ElizaLo/Data-Science/tree/master/Cloud%20Computing/AWS%20\(Amazon%20Web%20Services\)) ⭐ 408 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2024-11-07
+* [Data Analysis](https://github.com/ElizaLo/Data-Science/tree/master/Data%20Analysis) ⭐ 408 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2024-11-07
+* [Data Analytics](https://github.com/ElizaLo/Data-Science/tree/master/Data%20Analytics) ⭐ 408 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2024-11-07
+* [Data Engineering](https://github.com/ElizaLo/Data-Science/tree/master/Data%20Engineering) ⭐ 408 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2024-11-07
+* [Data Preprocessing](https://github.com/ElizaLo/Data-Science/tree/master/Data%20Preprocessing) ⭐ 408 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2024-11-07
+* [Data Processing](https://github.com/ElizaLo/Data-Science/tree/master/Data%20Processing) ⭐ 408 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2024-11-07
+* [Data Science Life Cycle Methodologies](https://github.com/ElizaLo/Data-Science/tree/master/Data%20Science%20Life%20Cycle%20Methodologies) ⭐ 408 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2024-11-07
+* [Data Warehouse](https://github.com/ElizaLo/Data-Science/tree/master/Data%20Warehouse) ⭐ 408 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2024-11-07
+* [Data-Centric AI](https://github.com/ElizaLo/Data-Science/tree/master/Data-Centric%20AI) ⭐ 408 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2024-11-07
+* [Data](https://github.com/ElizaLo/Data-Science/tree/master/Data) ⭐ 408 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2024-11-07
+* [Graph Neural Networks](https://github.com/ElizaLo/Data-Science/tree/master/Graph%20Neural%20Networks) ⭐ 408 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2024-11-07
+* [Machine Learning Ops (MLOps)](https://github.com/ElizaLo/Data-Science/tree/master/MLOps) ⭐ 408 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2024-11-07
+* [Optimization](https://github.com/ElizaLo/Data-Science/tree/master/Optimization) ⭐ 408 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2024-11-07
+* [Overfitting](https://github.com/ElizaLo/Data-Science/tree/master/Overfitting) ⭐ 408 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2024-11-07
+* [Pipelines](https://github.com/ElizaLo/Data-Science/tree/master/Pipelines) ⭐ 408 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2024-11-07
+* [SQL](https://github.com/ElizaLo/Data-Science/tree/master/SQL) ⭐ 408 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2024-11-07
+* [Statistics](https://github.com/ElizaLo/Data-Science/tree/master/Statistics) ⭐ 408 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2024-11-07
+* [Tools and Tips](https://github.com/ElizaLo/Data-Science/tree/master/Tools%20and%20Tips) ⭐ 408 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2024-11-07
 
 # 👩🏻‍🏫 Educational Platforms
 
@@ -63,7 +63,7 @@
 # 👩🏻‍🏫 Online Courses
 
 * [Специализация Наука о данных для руководителей](https://www.coursera.org/specializations/executive-data-science)
-* [Machine Learning Foundations](https://github.com/jonkrohn/ML-foundations) ⭐ 4,842 | 🐛 9 | 🌐 Jupyter Notebook | 📅 2024-11-20
+* [Machine Learning Foundations](https://github.com/jonkrohn/ML-foundations) ⭐ 4,844 | 🐛 9 | 🌐 Jupyter Notebook | 📅 2024-11-20
   > Machine Learning Foundations: Linear Algebra, Calculus, Statistics & Computer Science
 * [DeepLearning.AI](https://www.deeplearning.ai)
   * 📹 [DeepLearning.AI](https://www.youtube.com/@Deeplearningai/playlists) YouTube channel
@@ -71,12 +71,12 @@
 
 ## :octocat: GitHub Repositories
 
-|                                                                             Title                                                                             | Description                                                                                                                                                                                                                                                                                                                                                     |
-| :-----------------------------------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [Data Science for Beginners - A Curriculum](https://github.com/microsoft/Data-Science-For-Beginners) ⭐ 36,652 \| 🐛 9 \| 🌐 Jupyter Notebook \| 📅 2026-08-11 | Azure Cloud Advocates at **Microsoft** are pleased to offer a 10-week, 20-lesson curriculum all about Data Science. Each lesson includes pre-lesson and post-lesson quizzes, written instructions to complete the lesson, a solution, and an assignment. Our project-based pedagogy allows you to learn while building, a proven way for new skills to 'stick'. |
-|    [Machine Learning for Beginners - A Curriculum](https://github.com/microsoft/ML-For-Beginners) ⭐ 89,527 \| 🐛 13 \| 🌐 Jupyter Notebook \| 📅 2026-08-12   | Azure Cloud Advocates at **Microsoft** are pleased to offer a 12-week, 26-lesson curriculum all about Machine Learning. In this curriculum, you will learn about what is sometimes called classic machine learning, using primarily Scikit-learn as a library and avoiding deep learning, which is covered in our forthcoming 'AI for Beginners' curriculum.    |
-|                         [start-machine-learning](https://github.com/louisfb01/start-machine-learning) ⭐ 5,294 \| 🐛 4 \| 📅 2026-01-23                        | A complete guide to start and improve in machine learning (ML), artificial intelligence (AI) in 2021 without ANY background in the field and stay up-to-date with the latest news and state-of-the-art techniques                                                                                                                                               |
-|      [Data Science Specialization, John Hopkins Coursera](https://github.com/mGalarnyk/datasciencecoursera) ⭐ 2,257 \| 🐛 28 \| 🌐 HTML \| 📅 2023-03-08      | Data Science Repo and blog for John Hopkins Coursera Courses. [Blog post - Blogging through the Data Science Specialization, John Hopkins Coursera](https://medium.com/@GalarnykMichael/blogging-through-the-data-science-specialization-john-hopkins-coursera-2ea63fb99ab5#.ckgc10iif)                                                                         |
+|                                                                              Title                                                                             | Description                                                                                                                                                                                                                                                                                                                                                     |
+| :------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [Data Science for Beginners - A Curriculum](https://github.com/microsoft/Data-Science-For-Beginners) ⭐ 36,666 \| 🐛 10 \| 🌐 Jupyter Notebook \| 📅 2026-08-20 | Azure Cloud Advocates at **Microsoft** are pleased to offer a 10-week, 20-lesson curriculum all about Data Science. Each lesson includes pre-lesson and post-lesson quizzes, written instructions to complete the lesson, a solution, and an assignment. Our project-based pedagogy allows you to learn while building, a proven way for new skills to 'stick'. |
+|    [Machine Learning for Beginners - A Curriculum](https://github.com/microsoft/ML-For-Beginners) ⭐ 89,601 \| 🐛 14 \| 🌐 Jupyter Notebook \| 📅 2026-08-20    | Azure Cloud Advocates at **Microsoft** are pleased to offer a 12-week, 26-lesson curriculum all about Machine Learning. In this curriculum, you will learn about what is sometimes called classic machine learning, using primarily Scikit-learn as a library and avoiding deep learning, which is covered in our forthcoming 'AI for Beginners' curriculum.    |
+|                         [start-machine-learning](https://github.com/louisfb01/start-machine-learning) ⭐ 5,294 \| 🐛 4 \| 📅 2026-01-23                         | A complete guide to start and improve in machine learning (ML), artificial intelligence (AI) in 2021 without ANY background in the field and stay up-to-date with the latest news and state-of-the-art techniques                                                                                                                                               |
+|       [Data Science Specialization, John Hopkins Coursera](https://github.com/mGalarnyk/datasciencecoursera) ⭐ 2,257 \| 🐛 28 \| 🌐 HTML \| 📅 2023-03-08      | Data Science Repo and blog for John Hopkins Coursera Courses. [Blog post - Blogging through the Data Science Specialization, John Hopkins Coursera](https://medium.com/@GalarnykMichael/blogging-through-the-data-science-specialization-john-hopkins-coursera-2ea63fb99ab5#.ckgc10iif)                                                                         |
 
 # 📚 Books
 
@@ -90,12 +90,12 @@
 
 |                                                                              Title                                                                              | Description                                                                                                                                                                                                                                                |
 | :-------------------------------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|      [Awesome Artificial Intelligence (AI)](https://github.com/owainlewis/awesome-artificial-intelligence) ⭐ 15,903 \| 🐛 68 \| 🌐 Python \| 📅 2026-08-15      | A curated list of Artificial Intelligence (AI) courses, books, video lectures and papers.                                                                                                                                                                  |
-|                                      [ml-surveys](https://github.com/eugeneyan/ml-surveys) ⭐ 2,903 \| 🐛 2 \| 📅 2023-03-17                                     | Survey papers summarizing advances in deep learning, NLP, CV, graphs, reinforcement learning, recommendations, graphs, etc.                                                                                                                                |
+|      [Awesome Artificial Intelligence (AI)](https://github.com/owainlewis/awesome-artificial-intelligence) ⭐ 15,915 \| 🐛 68 \| 🌐 Python \| 📅 2026-08-15      | A curated list of Artificial Intelligence (AI) courses, books, video lectures and papers.                                                                                                                                                                  |
+|                                      [ml-surveys](https://github.com/eugeneyan/ml-surveys) ⭐ 2,902 \| 🐛 2 \| 📅 2023-03-17                                     | Survey papers summarizing advances in deep learning, NLP, CV, graphs, reinforcement learning, recommendations, graphs, etc.                                                                                                                                |
 |                    [awesome-analytics-engineering](https://github.com/Victoriapm/awesome-analytics-engineering) ⭐ 34 \| 🐛 1 \| 📅 2021-12-02                   | Awesome list of resources for analytics engineers.                                                                                                                                                                                                         |
 | [Complete-Life-Cycle-of-a-Data-Science-Project](https://github.com/achuthasubhash/Complete-Life-Cycle-of-a-Data-Science-Project) ⭐ 652 \| 🐛 1 \| 📅 2024-06-07 |                                                                                                                                                                                                                                                            |
 |                      [Data Science Learning Path](https://github.com/data-folks/data-science-learning-path) ⭐ 276 \| 🐛 5 \| 📅 2021-10-24                      | A complete guide to learn data science for beginners                                                                                                                                                                                                       |
-| [Project Based Learning](https://github.com/practical-tutorials/project-based-learning/blob/master/README.md) ⭐ 279,889 \| 🐛 270 \| 🌐 Python \| 📅 2026-08-17 | A list of programming tutorials in which aspiring software developers learn how to build an application from scratch. These tutorials are divided into different primary programming languages. Tutorials may involve multiple technologies and languages. |
+| [Project Based Learning](https://github.com/practical-tutorials/project-based-learning/blob/master/README.md) ⭐ 280,063 \| 🐛 270 \| 🌐 Python \| 📅 2026-08-17 | A list of programming tutorials in which aspiring software developers learn how to build an application from scratch. These tutorials are divided into different primary programming languages. Tutorials may involve multiple technologies and languages. |
 
 # ⚙️ Tools
 
@@ -109,7 +109,7 @@
 
 |                                                                                Title                                                                               | Description, Information                                                                                                                                        |
 | :----------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [2021: A Year Full of Amazing AI papers- A Review / 📌 \[work in progress...\]](https://github.com/louisfb01/best_AI_papers_2021) ⭐ 2,895 \| 🐛 0 \| 📅 2023-10-18 | A curated list of the latest breakthroughs in AI by release date with a clear video explanation, link to a more in-depth article, and code. \[work in progress] |
+| [2021: A Year Full of Amazing AI papers- A Review / 📌 \[work in progress...\]](https://github.com/louisfb01/best_AI_papers_2021) ⭐ 2,894 \| 🐛 0 \| 📅 2023-10-18 | A curated list of the latest breakthroughs in AI by release date with a clear video explanation, link to a more in-depth article, and code. \[work in progress] |
 
 # 📜 Certifications
 
@@ -155,7 +155,7 @@
 
 ## Companies Blogs
 
-* * :octocat: [Software Engineering Blogs](https://github.com/kilimchoi/engineering-blogs) ⭐ 38,522 | 🐛 150 | 🌐 Ruby | 📅 2024-08-21
+* * :octocat: [Software Engineering Blogs](https://github.com/kilimchoi/engineering-blogs) ⭐ 38,532 | 🐛 150 | 🌐 Ruby | 📅 2024-08-21
   * > A curated list of engineering blogs
 * [Amazon | Science](https://www.amazon.science)
 * [AWS Machine Learning Blog](https://aws.amazon.com/ru/blogs/machine-learning/)
@@ -196,4 +196,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-20._
