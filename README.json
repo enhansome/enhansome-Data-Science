@@ -321,10 +321,343 @@
         }
       ],
       "title": "🔄 Constantly updated. Subscribe not to miss anything."
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Machine Learning Foundations",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 256789849,
+            "language": "Jupyter Notebook",
+            "last_commit": "2024-11-20T19:39:24Z",
+            "owner": "jonkrohn",
+            "repo": "ML-foundations",
+            "stars": 4846
+          }
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Data Science for Beginners - A Curriculum",
+              "description": "Azure Cloud Advocates at Microsoft are pleased to offer a 10-week, 20-lesson curriculum all about Data Science. Each lesson includes pre-lesson and post-lesson quizzes, written instructions to complete the lesson, a solution, and an assignment. Our project-based pedagogy allows you to learn while building, a proven way for new skills to 'stick'.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 344191198,
+                "language": "Jupyter Notebook",
+                "last_commit": "2026-08-20T01:11:34Z",
+                "owner": "microsoft",
+                "repo": "Data-Science-For-Beginners",
+                "stars": 36705
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Machine Learning for Beginners - A Curriculum",
+              "description": "Azure Cloud Advocates at Microsoft are pleased to offer a 12-week, 26-lesson curriculum all about Machine Learning. In this curriculum, you will learn about what is sometimes called classic machine learning, using primarily Scikit-learn as a library and avoiding deep learning, which is covered in our forthcoming 'AI for Beginners' curriculum.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 343965132,
+                "language": "Jupyter Notebook",
+                "last_commit": "2026-08-20T01:11:33Z",
+                "owner": "microsoft",
+                "repo": "ML-For-Beginners",
+                "stars": 89741
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "start-machine-learning",
+              "description": "A complete guide to start and improve in machine learning (ML), artificial intelligence (AI) in 2021 without ANY background in the field and stay up-to-date with the latest news and state-of-the-art techniques",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 298262517,
+                "language": null,
+                "last_commit": "2026-01-23T19:51:33Z",
+                "owner": "louisfb01",
+                "repo": "start-machine-learning",
+                "stars": 5295
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Data Science Specialization, John Hopkins Coursera",
+              "description": "Data Science Repo and blog for John Hopkins Coursera Courses. Blog post - Blogging through the Data Science Specialization, John Hopkins Coursera",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 77424533,
+                "language": "HTML",
+                "last_commit": "2023-03-08T05:23:11Z",
+                "owner": "mGalarnyk",
+                "repo": "datasciencecoursera",
+                "stars": 2257
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": ":octocat: GitHub Repositories"
+        }
+      ],
+      "title": "👩🏻‍🏫 Online Courses"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Awesome Artificial Intelligence (AI)",
+          "description": "A curated list of Artificial Intelligence (AI) courses, books, video lectures and papers.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 29906842,
+            "language": "Python",
+            "last_commit": "2026-08-15T08:12:01Z",
+            "owner": "owainlewis",
+            "repo": "awesome-artificial-intelligence",
+            "stars": 16117
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ml-surveys",
+          "description": "Survey papers summarizing advances in deep learning, NLP, CV, graphs, reinforcement learning, recommendations, graphs, etc.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 285951873,
+            "language": null,
+            "last_commit": "2023-03-17T05:00:49Z",
+            "owner": "eugeneyan",
+            "repo": "ml-surveys",
+            "stars": 2901
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awesome-analytics-engineering",
+          "description": "Awesome list of resources for analytics engineers.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 434374306,
+            "language": null,
+            "last_commit": "2021-12-02T22:38:48Z",
+            "owner": "Victoriapm",
+            "repo": "awesome-analytics-engineering",
+            "stars": 34
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Complete-Life-Cycle-of-a-Data-Science-Project",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 292251400,
+            "language": null,
+            "last_commit": "2024-06-07T07:33:49Z",
+            "owner": "achuthasubhash",
+            "repo": "Complete-Life-Cycle-of-a-Data-Science-Project",
+            "stars": 653
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Data Science Learning Path",
+          "description": "A complete guide to learn data science for beginners",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 396037354,
+            "language": null,
+            "last_commit": "2021-10-24T02:21:32Z",
+            "owner": "data-folks",
+            "repo": "data-science-learning-path",
+            "stars": 277
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Project Based Learning",
+          "description": "A list of programming tutorials in which aspiring software developers learn how to build an application from scratch. These tutorials are divided into different primary programming languages. Tutorials may involve multiple technologies and languages.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 88011908,
+            "language": "Python",
+            "last_commit": "2026-08-24T07:38:50Z",
+            "owner": "practical-tutorials",
+            "repo": "project-based-learning",
+            "stars": 280600
+          }
+        }
+      ],
+      "title": ":octocat: GitHub Repositories"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": ":octocat: papers-with-video",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 330137374,
+            "language": "JavaScript",
+            "last_commit": "2023-11-05T13:21:23Z",
+            "owner": "amitness",
+            "repo": "papers-with-video",
+            "stars": 414
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2021: A Year Full of Amazing AI papers- A Review / 📌 [work in progress...]",
+          "description": "A curated list of the latest breakthroughs in AI by release date with a clear video explanation, link to a more in-depth article, and code. [work in progress]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 425298533,
+            "language": null,
+            "last_commit": "2023-10-18T11:46:35Z",
+            "owner": "louisfb01",
+            "repo": "best_AI_papers_2021",
+            "stars": 2894
+          }
+        }
+      ],
+      "title": "📄 Papers"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "group",
+          "title": "Eastern European Machine Learning Summer School, 2020 (Deep Learning and Reinforcement Learning",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Practical Sessions 2020",
+              "description": ", GitHub Repository",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 271620813,
+                "language": "Jupyter Notebook",
+                "last_commit": "2021-01-11T15:11:34Z",
+                "owner": "eemlcommunity",
+                "repo": "PracticalSessions2020",
+                "stars": 269
+              }
+            }
+          ]
+        }
+      ],
+      "title": "🗣️ Online Conferences, Meetups, Data Summer Schools"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Awesome Data Podcasts",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 324244168,
+            "language": null,
+            "last_commit": "2026-03-29T05:34:24Z",
+            "owner": "DataTalksClub",
+            "repo": "awesome-data-podcasts",
+            "stars": 393
+          }
+        }
+      ],
+      "title": "🎧 Podcasts"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "group",
+              "title": "",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": ":octocat: Software Engineering Blogs",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 37382858,
+                    "language": "Ruby",
+                    "last_commit": "2024-08-21T13:01:11Z",
+                    "owner": "kilimchoi",
+                    "repo": "engineering-blogs",
+                    "stars": 38544
+                  }
+                }
+              ]
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Companies Blogs"
+        },
+        {
+          "children": [
+            {
+              "node_type": "group",
+              "title": "Towards AI",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Tutorials",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 278410062,
+                    "language": "Jupyter Notebook",
+                    "last_commit": "2024-05-04T15:16:01Z",
+                    "owner": "towardsai",
+                    "repo": "tutorials",
+                    "stars": 1026
+                  }
+                }
+              ]
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Other Blogs"
+        }
+      ],
+      "title": "🗞️ Blogs"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T13:36:04.090Z",
+    "last_updated": "2026-08-24T14:02:29.835Z",
     "original_repository": "ElizaLo/Data-Science",
     "original_repository_id": 265904235,
     "original_repository_sha": "70412aa38ffeb0241d37dea20de32e8637fdd709",
