@@ -186,7 +186,7 @@
         },
         {
           "node_type": "item",
-          "title": "Data",
+          "title": "ElizaLo/Data-Science",
           "description": null,
           "children": [],
           "repo_info": {
@@ -354,7 +354,7 @@
                 "last_commit": "2026-08-20T01:11:34Z",
                 "owner": "microsoft",
                 "repo": "Data-Science-For-Beginners",
-                "stars": 36705
+                "stars": 36707
               }
             },
             {
@@ -369,7 +369,7 @@
                 "last_commit": "2026-08-20T01:11:33Z",
                 "owner": "microsoft",
                 "repo": "ML-For-Beginners",
-                "stars": 89741
+                "stars": 89765
               }
             },
             {
@@ -425,7 +425,7 @@
             "last_commit": "2026-08-15T08:12:01Z",
             "owner": "owainlewis",
             "repo": "awesome-artificial-intelligence",
-            "stars": 16117
+            "stars": 16126
           }
         },
         {
@@ -500,7 +500,7 @@
             "last_commit": "2026-08-24T07:38:50Z",
             "owner": "practical-tutorials",
             "repo": "project-based-learning",
-            "stars": 280606
+            "stars": 280702
           }
         }
       ],
@@ -613,7 +613,7 @@
                     "last_commit": "2024-08-21T13:01:11Z",
                     "owner": "kilimchoi",
                     "repo": "engineering-blogs",
-                    "stars": 38544
+                    "stars": 38545
                   }
                 }
               ]
@@ -657,7 +657,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:28:59.635Z",
+    "last_updated": "2026-08-25T06:17:21.538Z",
     "original_repository": "ElizaLo/Data-Science",
     "original_repository_id": 265904235,
     "original_repository_sha": "70412aa38ffeb0241d37dea20de32e8637fdd709",
