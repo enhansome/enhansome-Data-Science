@@ -337,7 +337,7 @@
             "last_commit": "2024-11-20T19:39:24Z",
             "owner": "jonkrohn",
             "repo": "ML-foundations",
-            "stars": 4846
+            "stars": 4848
           }
         },
         {
@@ -354,7 +354,7 @@
                 "last_commit": "2026-08-20T01:11:34Z",
                 "owner": "microsoft",
                 "repo": "Data-Science-For-Beginners",
-                "stars": 36721
+                "stars": 36727
               }
             },
             {
@@ -369,7 +369,7 @@
                 "last_commit": "2026-08-20T01:11:33Z",
                 "owner": "microsoft",
                 "repo": "ML-For-Beginners",
-                "stars": 89784
+                "stars": 89815
               }
             },
             {
@@ -384,7 +384,7 @@
                 "last_commit": "2026-01-23T19:51:33Z",
                 "owner": "louisfb01",
                 "repo": "start-machine-learning",
-                "stars": 5295
+                "stars": 5296
               }
             },
             {
@@ -425,7 +425,7 @@
             "last_commit": "2026-08-15T08:12:01Z",
             "owner": "owainlewis",
             "repo": "awesome-artificial-intelligence",
-            "stars": 16148
+            "stars": 16199
           }
         },
         {
@@ -500,7 +500,7 @@
             "last_commit": "2026-08-24T07:38:50Z",
             "owner": "practical-tutorials",
             "repo": "project-based-learning",
-            "stars": 280777
+            "stars": 280930
           }
         }
       ],
@@ -657,7 +657,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T13:55:02.100Z",
+    "last_updated": "2026-08-26T13:57:54.758Z",
     "original_repository": "ElizaLo/Data-Science",
     "original_repository_id": 265904235,
     "original_repository_sha": "70412aa38ffeb0241d37dea20de32e8637fdd709",
