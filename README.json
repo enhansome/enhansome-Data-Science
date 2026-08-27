@@ -337,7 +337,7 @@
             "last_commit": "2024-11-20T19:39:24Z",
             "owner": "jonkrohn",
             "repo": "ML-foundations",
-            "stars": 4848
+            "stars": 4850
           }
         },
         {
@@ -354,7 +354,7 @@
                 "last_commit": "2026-08-20T01:11:34Z",
                 "owner": "microsoft",
                 "repo": "Data-Science-For-Beginners",
-                "stars": 36727
+                "stars": 36740
               }
             },
             {
@@ -369,7 +369,7 @@
                 "last_commit": "2026-08-20T01:11:33Z",
                 "owner": "microsoft",
                 "repo": "ML-For-Beginners",
-                "stars": 89815
+                "stars": 89834
               }
             },
             {
@@ -425,7 +425,7 @@
             "last_commit": "2026-08-15T08:12:01Z",
             "owner": "owainlewis",
             "repo": "awesome-artificial-intelligence",
-            "stars": 16199
+            "stars": 16212
           }
         },
         {
@@ -500,7 +500,7 @@
             "last_commit": "2026-08-24T07:38:50Z",
             "owner": "practical-tutorials",
             "repo": "project-based-learning",
-            "stars": 280930
+            "stars": 281044
           }
         }
       ],
@@ -613,7 +613,7 @@
                     "last_commit": "2024-08-21T13:01:11Z",
                     "owner": "kilimchoi",
                     "repo": "engineering-blogs",
-                    "stars": 38550
+                    "stars": 38552
                   }
                 }
               ]
@@ -657,9 +657,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T13:57:54.758Z",
-    "original_repository": "ElizaLo/Data-Science",
-    "original_repository_id": 265904235,
+    "last_updated": "2026-08-27T11:33:53.758Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 265904235,
+      "language": "Jupyter Notebook",
+      "last_commit": "2024-11-07T18:03:31Z",
+      "owner": "ElizaLo",
+      "repo": "Data-Science",
+      "stars": 408
+    },
     "original_repository_sha": "70412aa38ffeb0241d37dea20de32e8637fdd709",
     "enhanced_repository": "enhansome/enhansome-Data-Science",
     "enhanced_repository_description": null,
