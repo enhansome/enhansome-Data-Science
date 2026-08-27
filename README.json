@@ -354,7 +354,7 @@
                 "last_commit": "2026-08-20T01:11:34Z",
                 "owner": "microsoft",
                 "repo": "Data-Science-For-Beginners",
-                "stars": 36740
+                "stars": 36745
               }
             },
             {
@@ -369,7 +369,7 @@
                 "last_commit": "2026-08-20T01:11:33Z",
                 "owner": "microsoft",
                 "repo": "ML-For-Beginners",
-                "stars": 89834
+                "stars": 89845
               }
             },
             {
@@ -384,7 +384,7 @@
                 "last_commit": "2026-01-23T19:51:33Z",
                 "owner": "louisfb01",
                 "repo": "start-machine-learning",
-                "stars": 5296
+                "stars": 5297
               }
             },
             {
@@ -425,7 +425,7 @@
             "last_commit": "2026-08-15T08:12:01Z",
             "owner": "owainlewis",
             "repo": "awesome-artificial-intelligence",
-            "stars": 16212
+            "stars": 16228
           }
         },
         {
@@ -500,7 +500,7 @@
             "last_commit": "2026-08-24T07:38:50Z",
             "owner": "practical-tutorials",
             "repo": "project-based-learning",
-            "stars": 281044
+            "stars": 281111
           }
         }
       ],
@@ -613,7 +613,7 @@
                     "last_commit": "2024-08-21T13:01:11Z",
                     "owner": "kilimchoi",
                     "repo": "engineering-blogs",
-                    "stars": 38552
+                    "stars": 38554
                   }
                 }
               ]
@@ -657,7 +657,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:33:53.758Z",
+    "last_updated": "2026-08-27T22:53:43.536Z",
     "original_repository_info": {
       "archived": false,
       "id": 265904235,
