@@ -824,7 +824,7 @@
             "open_issues": 9,
             "owner": "jonkrohn",
             "repo": "ML-foundations",
-            "stars": 4850,
+            "stars": 4852,
             "topics": [
               "calculus",
               "computer-science",
@@ -862,7 +862,7 @@
                 "open_issues": 10,
                 "owner": "microsoft",
                 "repo": "Data-Science-For-Beginners",
-                "stars": 36759,
+                "stars": 36768,
                 "topics": [
                   "data-analysis",
                   "data-science",
@@ -890,7 +890,7 @@
                 "open_issues": 13,
                 "owner": "microsoft",
                 "repo": "ML-For-Beginners",
-                "stars": 89890,
+                "stars": 89933,
                 "topics": [
                   "data-science",
                   "education",
@@ -1005,7 +1005,7 @@
             "open_issues": 72,
             "owner": "owainlewis",
             "repo": "awesome-artificial-intelligence",
-            "stars": 16257,
+            "stars": 16277,
             "topics": [
               "ai",
               "artificial-intelligence",
@@ -1156,10 +1156,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-08-24T07:38:50Z",
-            "open_issues": 271,
+            "open_issues": 273,
             "owner": "practical-tutorials",
             "repo": "project-based-learning",
-            "stars": 281257,
+            "stars": 281352,
             "topics": [
               "beginner-project",
               "cpp",
@@ -1273,7 +1273,7 @@
                 "open_issues": 2,
                 "owner": "eemlcommunity",
                 "repo": "PracticalSessions2020",
-                "stars": 269,
+                "stars": 270,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:58:20.893Z"
@@ -1302,7 +1302,7 @@
             "open_issues": 2,
             "owner": "DataTalksClub",
             "repo": "awesome-data-podcasts",
-            "stars": 394,
+            "stars": 393,
             "topics": []
           },
           "first_seen": "2026-08-28T22:58:20.893Z"
@@ -1333,10 +1333,10 @@
                     "language": "Ruby",
                     "license": null,
                     "last_commit": "2024-08-21T13:01:11Z",
-                    "open_issues": 151,
+                    "open_issues": 152,
                     "owner": "kilimchoi",
                     "repo": "engineering-blogs",
-                    "stars": 38556,
+                    "stars": 38557,
                     "topics": [
                       "engineering-blogs",
                       "lists",
@@ -1412,7 +1412,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T17:03:09.034Z",
+    "last_updated": "2026-08-30T17:16:30.622Z",
     "original_repository_info": {
       "archived": false,
       "description": "Projects and awesome list for all Data Science fields",
