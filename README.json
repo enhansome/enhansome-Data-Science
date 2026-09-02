@@ -858,11 +858,11 @@
                 "id": 344191198,
                 "language": "Jupyter Notebook",
                 "license": "MIT",
-                "last_commit": "2026-08-20T01:11:34Z",
-                "open_issues": 10,
+                "last_commit": "2026-09-02T02:07:03Z",
+                "open_issues": 11,
                 "owner": "microsoft",
                 "repo": "Data-Science-For-Beginners",
-                "stars": 36805,
+                "stars": 36819,
                 "topics": [
                   "data-analysis",
                   "data-science",
@@ -887,10 +887,10 @@
                 "language": "Jupyter Notebook",
                 "license": "MIT",
                 "last_commit": "2026-08-20T01:11:33Z",
-                "open_issues": 13,
+                "open_issues": 14,
                 "owner": "microsoft",
                 "repo": "ML-For-Beginners",
-                "stars": 90042,
+                "stars": 90071,
                 "topics": [
                   "data-science",
                   "education",
@@ -924,7 +924,7 @@
                 "open_issues": 4,
                 "owner": "louisfb01",
                 "repo": "start-machine-learning",
-                "stars": 5298,
+                "stars": 5296,
                 "topics": [
                   "artificial-intelligence",
                   "cheat-sheets",
@@ -1005,7 +1005,7 @@
             "open_issues": 73,
             "owner": "owainlewis",
             "repo": "awesome-artificial-intelligence",
-            "stars": 16292,
+            "stars": 16303,
             "topics": [
               "ai",
               "artificial-intelligence",
@@ -1156,10 +1156,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-08-31T07:08:03Z",
-            "open_issues": 277,
+            "open_issues": 278,
             "owner": "practical-tutorials",
             "repo": "project-based-learning",
-            "stars": 281669,
+            "stars": 281826,
             "topics": [
               "beginner-project",
               "cpp",
@@ -1336,7 +1336,7 @@
                     "open_issues": 151,
                     "owner": "kilimchoi",
                     "repo": "engineering-blogs",
-                    "stars": 38562,
+                    "stars": 38565,
                     "topics": [
                       "engineering-blogs",
                       "lists",
@@ -1412,7 +1412,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-01T17:16:01.471Z",
+    "last_updated": "2026-09-02T17:05:12.025Z",
     "original_repository_info": {
       "archived": false,
       "description": "Projects and awesome list for all Data Science fields",
