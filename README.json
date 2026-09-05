@@ -862,7 +862,7 @@
                 "open_issues": 12,
                 "owner": "microsoft",
                 "repo": "Data-Science-For-Beginners",
-                "stars": 36843,
+                "stars": 36849,
                 "topics": [
                   "data-analysis",
                   "data-science",
@@ -890,7 +890,7 @@
                 "open_issues": 15,
                 "owner": "microsoft",
                 "repo": "ML-For-Beginners",
-                "stars": 90128,
+                "stars": 90157,
                 "topics": [
                   "data-science",
                   "education",
@@ -921,7 +921,7 @@
                 "language": null,
                 "license": "MIT",
                 "last_commit": "2026-01-23T19:51:33Z",
-                "open_issues": 4,
+                "open_issues": 5,
                 "owner": "louisfb01",
                 "repo": "start-machine-learning",
                 "stars": 5297,
@@ -1005,7 +1005,7 @@
             "open_issues": 72,
             "owner": "owainlewis",
             "repo": "awesome-artificial-intelligence",
-            "stars": 16344,
+            "stars": 16351,
             "topics": [
               "ai",
               "artificial-intelligence",
@@ -1159,7 +1159,7 @@
             "open_issues": 278,
             "owner": "practical-tutorials",
             "repo": "project-based-learning",
-            "stars": 282060,
+            "stars": 282163,
             "topics": [
               "beginner-project",
               "cpp",
@@ -1336,7 +1336,7 @@
                     "open_issues": 151,
                     "owner": "kilimchoi",
                     "repo": "engineering-blogs",
-                    "stars": 38576,
+                    "stars": 38579,
                     "topics": [
                       "engineering-blogs",
                       "lists",
@@ -1412,7 +1412,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T16:48:15.341Z",
+    "last_updated": "2026-09-05T15:52:40.185Z",
     "original_repository_info": {
       "archived": false,
       "description": "Projects and awesome list for all Data Science fields",
