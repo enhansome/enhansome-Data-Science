@@ -824,7 +824,7 @@
             "open_issues": 9,
             "owner": "jonkrohn",
             "repo": "ML-foundations",
-            "stars": 4874,
+            "stars": 4875,
             "topics": [
               "calculus",
               "computer-science",
@@ -862,7 +862,7 @@
                 "open_issues": 20,
                 "owner": "microsoft",
                 "repo": "Data-Science-For-Beginners",
-                "stars": 37231,
+                "stars": 37252,
                 "topics": [
                   "data-analysis",
                   "data-science",
@@ -890,7 +890,7 @@
                 "open_issues": 11,
                 "owner": "microsoft",
                 "repo": "ML-For-Beginners",
-                "stars": 90805,
+                "stars": 90853,
                 "topics": [
                   "data-science",
                   "education",
@@ -924,7 +924,7 @@
                 "open_issues": 5,
                 "owner": "louisfb01",
                 "repo": "start-machine-learning",
-                "stars": 5300,
+                "stars": 5301,
                 "topics": [
                   "artificial-intelligence",
                   "cheat-sheets",
@@ -1002,10 +1002,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-08-15T08:12:01Z",
-            "open_issues": 75,
+            "open_issues": 76,
             "owner": "owainlewis",
             "repo": "awesome-artificial-intelligence",
-            "stars": 16531,
+            "stars": 16541,
             "topics": [
               "ai",
               "artificial-intelligence",
@@ -1159,7 +1159,7 @@
             "open_issues": 252,
             "owner": "practical-tutorials",
             "repo": "project-based-learning",
-            "stars": 284140,
+            "stars": 284249,
             "topics": [
               "beginner-project",
               "cpp",
@@ -1336,7 +1336,7 @@
                     "open_issues": 151,
                     "owner": "kilimchoi",
                     "repo": "engineering-blogs",
-                    "stars": 38682,
+                    "stars": 38684,
                     "topics": [
                       "engineering-blogs",
                       "lists",
@@ -1377,7 +1377,7 @@
                     "open_issues": 4,
                     "owner": "towardsai",
                     "repo": "tutorials",
-                    "stars": 1029,
+                    "stars": 1030,
                     "topics": [
                       "collaborative-filtering",
                       "data-science",
@@ -1412,7 +1412,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-21T18:34:40.642Z",
+    "last_updated": "2026-09-22T17:35:09.676Z",
     "original_repository_info": {
       "archived": false,
       "description": "Projects and awesome list for all Data Science fields",
