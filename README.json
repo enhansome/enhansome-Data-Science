@@ -824,7 +824,7 @@
             "open_issues": 9,
             "owner": "jonkrohn",
             "repo": "ML-foundations",
-            "stars": 4876,
+            "stars": 4878,
             "topics": [
               "calculus",
               "computer-science",
@@ -862,7 +862,7 @@
                 "open_issues": 20,
                 "owner": "microsoft",
                 "repo": "Data-Science-For-Beginners",
-                "stars": 37261,
+                "stars": 37286,
                 "topics": [
                   "data-analysis",
                   "data-science",
@@ -890,7 +890,7 @@
                 "open_issues": 11,
                 "owner": "microsoft",
                 "repo": "ML-For-Beginners",
-                "stars": 90877,
+                "stars": 90923,
                 "topics": [
                   "data-science",
                   "education",
@@ -966,7 +966,7 @@
                 "open_issues": 28,
                 "owner": "mGalarnyk",
                 "repo": "datasciencecoursera",
-                "stars": 2256,
+                "stars": 2255,
                 "topics": [
                   "data-science",
                   "jhu-coursera",
@@ -1005,7 +1005,7 @@
             "open_issues": 76,
             "owner": "owainlewis",
             "repo": "awesome-artificial-intelligence",
-            "stars": 16549,
+            "stars": 16551,
             "topics": [
               "ai",
               "artificial-intelligence",
@@ -1159,7 +1159,7 @@
             "open_issues": 251,
             "owner": "practical-tutorials",
             "repo": "project-based-learning",
-            "stars": 284350,
+            "stars": 284445,
             "topics": [
               "beginner-project",
               "cpp",
@@ -1336,7 +1336,7 @@
                     "open_issues": 151,
                     "owner": "kilimchoi",
                     "repo": "engineering-blogs",
-                    "stars": 38688,
+                    "stars": 38694,
                     "topics": [
                       "engineering-blogs",
                       "lists",
@@ -1412,7 +1412,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-23T17:47:15.453Z",
+    "last_updated": "2026-09-24T17:48:47.275Z",
     "original_repository_info": {
       "archived": false,
       "description": "Projects and awesome list for all Data Science fields",
