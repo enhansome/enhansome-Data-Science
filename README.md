@@ -62,7 +62,7 @@
 
 # 👩🏻‍🏫 Online Courses
 
-* [Machine Learning Foundations](https://github.com/jonkrohn/ML-foundations) ⭐ 4,886 | 🐛 9 | 🌐 Jupyter Notebook | 📅 2024-11-20
+* [Machine Learning Foundations](https://github.com/jonkrohn/ML-foundations) ⭐ 4,887 | 🐛 9 | 🌐 Jupyter Notebook | 📅 2024-11-20
   > Machine Learning Foundations: Linear Algebra, Calculus, Statistics & Computer Science
 * [Специализация Наука о данных для руководителей](https://www.coursera.org/specializations/executive-data-science)
 * [DeepLearning.AI](https://www.deeplearning.ai)
@@ -73,16 +73,16 @@
 
 |                                                                              Title                                                                             | Description                                                                                                                                                                                                                                                                                                                                                     |
 | :------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [Data Science for Beginners - A Curriculum](https://github.com/microsoft/Data-Science-For-Beginners) ⭐ 37,424 \| 🐛 20 \| 🌐 Jupyter Notebook \| 📅 2026-09-13 | Azure Cloud Advocates at **Microsoft** are pleased to offer a 10-week, 20-lesson curriculum all about Data Science. Each lesson includes pre-lesson and post-lesson quizzes, written instructions to complete the lesson, a solution, and an assignment. Our project-based pedagogy allows you to learn while building, a proven way for new skills to 'stick'. |
-|    [Machine Learning for Beginners - A Curriculum](https://github.com/microsoft/ML-For-Beginners) ⭐ 91,166 \| 🐛 13 \| 🌐 Jupyter Notebook \| 📅 2026-09-15    | Azure Cloud Advocates at **Microsoft** are pleased to offer a 12-week, 26-lesson curriculum all about Machine Learning. In this curriculum, you will learn about what is sometimes called classic machine learning, using primarily Scikit-learn as a library and avoiding deep learning, which is covered in our forthcoming 'AI for Beginners' curriculum.    |
-|                         [start-machine-learning](https://github.com/louisfb01/start-machine-learning) ⭐ 5,302 \| 🐛 6 \| 📅 2026-01-23                         | A complete guide to start and improve in machine learning (ML), artificial intelligence (AI) in 2021 without ANY background in the field and stay up-to-date with the latest news and state-of-the-art techniques                                                                                                                                               |
-|       [Data Science Specialization, John Hopkins Coursera](https://github.com/mGalarnyk/datasciencecoursera) ⭐ 2,256 \| 🐛 28 \| 🌐 HTML \| 📅 2023-03-08      | Data Science Repo and blog for John Hopkins Coursera Courses. [Blog post - Blogging through the Data Science Specialization, John Hopkins Coursera](https://medium.com/@GalarnykMichael/blogging-through-the-data-science-specialization-john-hopkins-coursera-2ea63fb99ab5#.ckgc10iif)                                                                         |
+| [Data Science for Beginners - A Curriculum](https://github.com/microsoft/Data-Science-For-Beginners) ⭐ 37,451 \| 🐛 20 \| 🌐 Jupyter Notebook \| 📅 2026-09-13 | Azure Cloud Advocates at **Microsoft** are pleased to offer a 10-week, 20-lesson curriculum all about Data Science. Each lesson includes pre-lesson and post-lesson quizzes, written instructions to complete the lesson, a solution, and an assignment. Our project-based pedagogy allows you to learn while building, a proven way for new skills to 'stick'. |
+|    [Machine Learning for Beginners - A Curriculum](https://github.com/microsoft/ML-For-Beginners) ⭐ 91,192 \| 🐛 13 \| 🌐 Jupyter Notebook \| 📅 2026-09-15    | Azure Cloud Advocates at **Microsoft** are pleased to offer a 12-week, 26-lesson curriculum all about Machine Learning. In this curriculum, you will learn about what is sometimes called classic machine learning, using primarily Scikit-learn as a library and avoiding deep learning, which is covered in our forthcoming 'AI for Beginners' curriculum.    |
+|                         [start-machine-learning](https://github.com/louisfb01/start-machine-learning) ⭐ 5,303 \| 🐛 6 \| 📅 2026-01-23                         | A complete guide to start and improve in machine learning (ML), artificial intelligence (AI) in 2021 without ANY background in the field and stay up-to-date with the latest news and state-of-the-art techniques                                                                                                                                               |
+|       [Data Science Specialization, John Hopkins Coursera](https://github.com/mGalarnyk/datasciencecoursera) ⭐ 2,257 \| 🐛 28 \| 🌐 HTML \| 📅 2023-03-08      | Data Science Repo and blog for John Hopkins Coursera Courses. [Blog post - Blogging through the Data Science Specialization, John Hopkins Coursera](https://medium.com/@GalarnykMichael/blogging-through-the-data-science-specialization-john-hopkins-coursera-2ea63fb99ab5#.ckgc10iif)                                                                         |
 
 # 📚 Books
 
 * [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
 * [Hands-On Machine Learning with Scikit-Learn and TensorFlow](https://www.oreilly.com/library/view/hands-on-machine-learning/9781491962282/)
-  * [Machine Learning Notebooks](https://github.com/ageron/handson-ml) ⭐ 25,613 | 🐛 145 | 🌐 Jupyter Notebook | 📅 2026-05-19
+  * [Machine Learning Notebooks](https://github.com/ageron/handson-ml) ⭐ 25,605 | 🐛 145 | 🌐 Jupyter Notebook | 📅 2026-05-19
     * > A series of Jupyter notebooks that walk you through the fundamentals of Machine Learning and Deep Learning in python using Scikit-Learn and TensorFlow.
 *
 
@@ -90,12 +90,12 @@
 
 |                                                                              Title                                                                              | Description                                                                                                                                                                                                                                                |
 | :-------------------------------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|      [Awesome Artificial Intelligence (AI)](https://github.com/owainlewis/awesome-artificial-intelligence) ⭐ 16,588 \| 🐛 76 \| 🌐 Python \| 📅 2026-08-15      | A curated list of Artificial Intelligence (AI) courses, books, video lectures and papers.                                                                                                                                                                  |
+|      [Awesome Artificial Intelligence (AI)](https://github.com/owainlewis/awesome-artificial-intelligence) ⭐ 16,595 \| 🐛 76 \| 🌐 Python \| 📅 2026-08-15      | A curated list of Artificial Intelligence (AI) courses, books, video lectures and papers.                                                                                                                                                                  |
 |                                      [ml-surveys](https://github.com/eugeneyan/ml-surveys) ⭐ 2,903 \| 🐛 2 \| 📅 2023-03-17                                     | Survey papers summarizing advances in deep learning, NLP, CV, graphs, reinforcement learning, recommendations, graphs, etc.                                                                                                                                |
 |                    [awesome-analytics-engineering](https://github.com/Victoriapm/awesome-analytics-engineering) ⭐ 34 \| 🐛 1 \| 📅 2021-12-02                   | Awesome list of resources for analytics engineers.                                                                                                                                                                                                         |
 | [Complete-Life-Cycle-of-a-Data-Science-Project](https://github.com/achuthasubhash/Complete-Life-Cycle-of-a-Data-Science-Project) ⭐ 656 \| 🐛 1 \| 📅 2024-06-07 |                                                                                                                                                                                                                                                            |
 |                      [Data Science Learning Path](https://github.com/data-folks/data-science-learning-path) ⭐ 276 \| 🐛 5 \| 📅 2021-10-24                      | A complete guide to learn data science for beginners                                                                                                                                                                                                       |
-| [Project Based Learning](https://github.com/practical-tutorials/project-based-learning/blob/master/README.md) ⭐ 285,386 \| 🐛 257 \| 🌐 Python \| 📅 2026-09-28 | A list of programming tutorials in which aspiring software developers learn how to build an application from scratch. These tutorials are divided into different primary programming languages. Tutorials may involve multiple technologies and languages. |
+| [Project Based Learning](https://github.com/practical-tutorials/project-based-learning/blob/master/README.md) ⭐ 285,535 \| 🐛 257 \| 🌐 Python \| 📅 2026-09-28 | A list of programming tutorials in which aspiring software developers learn how to build an application from scratch. These tutorials are divided into different primary programming languages. Tutorials may involve multiple technologies and languages. |
 
 # ⚙️ Tools
 
@@ -109,7 +109,7 @@
 
 |                                                                                Title                                                                               | Description, Information                                                                                                                                        |
 | :----------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [2021: A Year Full of Amazing AI papers- A Review / 📌 \[work in progress...\]](https://github.com/louisfb01/best_AI_papers_2021) ⭐ 2,894 \| 🐛 0 \| 📅 2023-10-18 | A curated list of the latest breakthroughs in AI by release date with a clear video explanation, link to a more in-depth article, and code. \[work in progress] |
+| [2021: A Year Full of Amazing AI papers- A Review / 📌 \[work in progress...\]](https://github.com/louisfb01/best_AI_papers_2021) ⭐ 2,895 \| 🐛 0 \| 📅 2023-10-18 | A curated list of the latest breakthroughs in AI by release date with a clear video explanation, link to a more in-depth article, and code. \[work in progress] |
 
 # 📜 Certifications
 
@@ -168,7 +168,7 @@
 ## Other Blogs
 
 * [Towards AI](https://towardsai.net/p/category/editorial)
-  * [Tutorials](https://github.com/towardsai/tutorials) ⭐ 1,031 | 🐛 4 | 🌐 Jupyter Notebook | 📅 2024-05-04
+  * [Tutorials](https://github.com/towardsai/tutorials) ⭐ 1,032 | 🐛 4 | 🌐 Jupyter Notebook | 📅 2024-05-04
     * > AI-related tutorials.
 * [Data Notes](https://data-notes.co)
 * [Louis Bouchard | @What's AI - Making AI Accessible](https://www.louisbouchard.ai)
@@ -196,4 +196,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-30._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-01._
