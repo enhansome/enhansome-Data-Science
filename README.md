@@ -16,27 +16,27 @@
 
 > Folders with all materials for specific task/domain
 
-* [AR VR](https://github.com/ElizaLo/Data-Science/tree/master/AR%20VR) ⭐ 409 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2024-11-07
-* [Class Imbalance Problem](https://github.com/ElizaLo/Data-Science/tree/master/Class%20Imbalance%20Problem) ⭐ 409 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2024-11-07
-* [Cloud Computing](https://github.com/ElizaLo/Data-Science/tree/master/Cloud%20Computing) ⭐ 409 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2024-11-07
-  * [AWS (Amazon Web Services)](https://github.com/ElizaLo/Data-Science/tree/master/Cloud%20Computing/AWS%20\(Amazon%20Web%20Services\)) ⭐ 409 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2024-11-07
-* [Data Analysis](https://github.com/ElizaLo/Data-Science/tree/master/Data%20Analysis) ⭐ 409 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2024-11-07
-* [Data Analytics](https://github.com/ElizaLo/Data-Science/tree/master/Data%20Analytics) ⭐ 409 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2024-11-07
-* [Data Engineering](https://github.com/ElizaLo/Data-Science/tree/master/Data%20Engineering) ⭐ 409 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2024-11-07
-* [Data Preprocessing](https://github.com/ElizaLo/Data-Science/tree/master/Data%20Preprocessing) ⭐ 409 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2024-11-07
-* [Data Processing](https://github.com/ElizaLo/Data-Science/tree/master/Data%20Processing) ⭐ 409 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2024-11-07
-* [Data Science Life Cycle Methodologies](https://github.com/ElizaLo/Data-Science/tree/master/Data%20Science%20Life%20Cycle%20Methodologies) ⭐ 409 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2024-11-07
-* [Data Warehouse](https://github.com/ElizaLo/Data-Science/tree/master/Data%20Warehouse) ⭐ 409 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2024-11-07
-* [Data-Centric AI](https://github.com/ElizaLo/Data-Science/tree/master/Data-Centric%20AI) ⭐ 409 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2024-11-07
-* [Data](https://github.com/ElizaLo/Data-Science/tree/master/Data) ⭐ 409 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2024-11-07
-* [Graph Neural Networks](https://github.com/ElizaLo/Data-Science/tree/master/Graph%20Neural%20Networks) ⭐ 409 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2024-11-07
-* [Machine Learning Ops (MLOps)](https://github.com/ElizaLo/Data-Science/tree/master/MLOps) ⭐ 409 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2024-11-07
-* [Optimization](https://github.com/ElizaLo/Data-Science/tree/master/Optimization) ⭐ 409 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2024-11-07
-* [Overfitting](https://github.com/ElizaLo/Data-Science/tree/master/Overfitting) ⭐ 409 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2024-11-07
-* [Pipelines](https://github.com/ElizaLo/Data-Science/tree/master/Pipelines) ⭐ 409 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2024-11-07
-* [SQL](https://github.com/ElizaLo/Data-Science/tree/master/SQL) ⭐ 409 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2024-11-07
-* [Statistics](https://github.com/ElizaLo/Data-Science/tree/master/Statistics) ⭐ 409 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2024-11-07
-* [Tools and Tips](https://github.com/ElizaLo/Data-Science/tree/master/Tools%20and%20Tips) ⭐ 409 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2024-11-07
+* [AR VR](https://github.com/ElizaLo/Data-Science/tree/master/AR%20VR)
+* [Class Imbalance Problem](https://github.com/ElizaLo/Data-Science/tree/master/Class%20Imbalance%20Problem)
+* [Cloud Computing](https://github.com/ElizaLo/Data-Science/tree/master/Cloud%20Computing)
+  * [AWS (Amazon Web Services)](https://github.com/ElizaLo/Data-Science/tree/master/Cloud%20Computing/AWS%20\(Amazon%20Web%20Services\))
+* [Data Analysis](https://github.com/ElizaLo/Data-Science/tree/master/Data%20Analysis)
+* [Data Analytics](https://github.com/ElizaLo/Data-Science/tree/master/Data%20Analytics)
+* [Data Engineering](https://github.com/ElizaLo/Data-Science/tree/master/Data%20Engineering)
+* [Data Preprocessing](https://github.com/ElizaLo/Data-Science/tree/master/Data%20Preprocessing)
+* [Data Processing](https://github.com/ElizaLo/Data-Science/tree/master/Data%20Processing)
+* [Data Science Life Cycle Methodologies](https://github.com/ElizaLo/Data-Science/tree/master/Data%20Science%20Life%20Cycle%20Methodologies)
+* [Data Warehouse](https://github.com/ElizaLo/Data-Science/tree/master/Data%20Warehouse)
+* [Data-Centric AI](https://github.com/ElizaLo/Data-Science/tree/master/Data-Centric%20AI)
+* [Data](https://github.com/ElizaLo/Data-Science/tree/master/Data)
+* [Graph Neural Networks](https://github.com/ElizaLo/Data-Science/tree/master/Graph%20Neural%20Networks)
+* [Machine Learning Ops (MLOps)](https://github.com/ElizaLo/Data-Science/tree/master/MLOps)
+* [Optimization](https://github.com/ElizaLo/Data-Science/tree/master/Optimization)
+* [Overfitting](https://github.com/ElizaLo/Data-Science/tree/master/Overfitting)
+* [Pipelines](https://github.com/ElizaLo/Data-Science/tree/master/Pipelines)
+* [SQL](https://github.com/ElizaLo/Data-Science/tree/master/SQL)
+* [Statistics](https://github.com/ElizaLo/Data-Science/tree/master/Statistics)
+* [Tools and Tips](https://github.com/ElizaLo/Data-Science/tree/master/Tools%20and%20Tips)
 
 # 👩🏻‍🏫 Educational Platforms
 
@@ -73,9 +73,9 @@
 
 |                                                                              Title                                                                             | Description                                                                                                                                                                                                                                                                                                                                                     |
 | :------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [Data Science for Beginners - A Curriculum](https://github.com/microsoft/Data-Science-For-Beginners) ⭐ 37,466 \| 🐛 20 \| 🌐 Jupyter Notebook \| 📅 2026-09-13 | Azure Cloud Advocates at **Microsoft** are pleased to offer a 10-week, 20-lesson curriculum all about Data Science. Each lesson includes pre-lesson and post-lesson quizzes, written instructions to complete the lesson, a solution, and an assignment. Our project-based pedagogy allows you to learn while building, a proven way for new skills to 'stick'. |
-|    [Machine Learning for Beginners - A Curriculum](https://github.com/microsoft/ML-For-Beginners) ⭐ 91,207 \| 🐛 13 \| 🌐 Jupyter Notebook \| 📅 2026-09-15    | Azure Cloud Advocates at **Microsoft** are pleased to offer a 12-week, 26-lesson curriculum all about Machine Learning. In this curriculum, you will learn about what is sometimes called classic machine learning, using primarily Scikit-learn as a library and avoiding deep learning, which is covered in our forthcoming 'AI for Beginners' curriculum.    |
-|                         [start-machine-learning](https://github.com/louisfb01/start-machine-learning) ⭐ 5,303 \| 🐛 6 \| 📅 2026-01-23                         | A complete guide to start and improve in machine learning (ML), artificial intelligence (AI) in 2021 without ANY background in the field and stay up-to-date with the latest news and state-of-the-art techniques                                                                                                                                               |
+| [Data Science for Beginners - A Curriculum](https://github.com/microsoft/Data-Science-For-Beginners) ⭐ 37,471 \| 🐛 20 \| 🌐 Jupyter Notebook \| 📅 2026-09-13 | Azure Cloud Advocates at **Microsoft** are pleased to offer a 10-week, 20-lesson curriculum all about Data Science. Each lesson includes pre-lesson and post-lesson quizzes, written instructions to complete the lesson, a solution, and an assignment. Our project-based pedagogy allows you to learn while building, a proven way for new skills to 'stick'. |
+|    [Machine Learning for Beginners - A Curriculum](https://github.com/microsoft/ML-For-Beginners) ⭐ 91,212 \| 🐛 13 \| 🌐 Jupyter Notebook \| 📅 2026-09-15    | Azure Cloud Advocates at **Microsoft** are pleased to offer a 12-week, 26-lesson curriculum all about Machine Learning. In this curriculum, you will learn about what is sometimes called classic machine learning, using primarily Scikit-learn as a library and avoiding deep learning, which is covered in our forthcoming 'AI for Beginners' curriculum.    |
+|                         [start-machine-learning](https://github.com/louisfb01/start-machine-learning) ⭐ 5,302 \| 🐛 6 \| 📅 2026-01-23                         | A complete guide to start and improve in machine learning (ML), artificial intelligence (AI) in 2021 without ANY background in the field and stay up-to-date with the latest news and state-of-the-art techniques                                                                                                                                               |
 |       [Data Science Specialization, John Hopkins Coursera](https://github.com/mGalarnyk/datasciencecoursera) ⭐ 2,257 \| 🐛 28 \| 🌐 HTML \| 📅 2023-03-08      | Data Science Repo and blog for John Hopkins Coursera Courses. [Blog post - Blogging through the Data Science Specialization, John Hopkins Coursera](https://medium.com/@GalarnykMichael/blogging-through-the-data-science-specialization-john-hopkins-coursera-2ea63fb99ab5#.ckgc10iif)                                                                         |
 
 # 📚 Books
@@ -90,12 +90,12 @@
 
 |                                                                              Title                                                                              | Description                                                                                                                                                                                                                                                |
 | :-------------------------------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|      [Awesome Artificial Intelligence (AI)](https://github.com/owainlewis/awesome-artificial-intelligence) ⭐ 16,600 \| 🐛 76 \| 🌐 Python \| 📅 2026-08-15      | A curated list of Artificial Intelligence (AI) courses, books, video lectures and papers.                                                                                                                                                                  |
+|      [Awesome Artificial Intelligence (AI)](https://github.com/owainlewis/awesome-artificial-intelligence) ⭐ 16,602 \| 🐛 76 \| 🌐 Python \| 📅 2026-08-15      | A curated list of Artificial Intelligence (AI) courses, books, video lectures and papers.                                                                                                                                                                  |
 |                                      [ml-surveys](https://github.com/eugeneyan/ml-surveys) ⭐ 2,903 \| 🐛 2 \| 📅 2023-03-17                                     | Survey papers summarizing advances in deep learning, NLP, CV, graphs, reinforcement learning, recommendations, graphs, etc.                                                                                                                                |
 |                    [awesome-analytics-engineering](https://github.com/Victoriapm/awesome-analytics-engineering) ⭐ 34 \| 🐛 1 \| 📅 2021-12-02                   | Awesome list of resources for analytics engineers.                                                                                                                                                                                                         |
 | [Complete-Life-Cycle-of-a-Data-Science-Project](https://github.com/achuthasubhash/Complete-Life-Cycle-of-a-Data-Science-Project) ⭐ 656 \| 🐛 1 \| 📅 2024-06-07 |                                                                                                                                                                                                                                                            |
 |                      [Data Science Learning Path](https://github.com/data-folks/data-science-learning-path) ⭐ 276 \| 🐛 5 \| 📅 2021-10-24                      | A complete guide to learn data science for beginners                                                                                                                                                                                                       |
-| [Project Based Learning](https://github.com/practical-tutorials/project-based-learning/blob/master/README.md) ⭐ 285,626 \| 🐛 259 \| 🌐 Python \| 📅 2026-09-28 | A list of programming tutorials in which aspiring software developers learn how to build an application from scratch. These tutorials are divided into different primary programming languages. Tutorials may involve multiple technologies and languages. |
+| [Project Based Learning](https://github.com/practical-tutorials/project-based-learning/blob/master/README.md) ⭐ 285,659 \| 🐛 260 \| 🌐 Python \| 📅 2026-09-28 | A list of programming tutorials in which aspiring software developers learn how to build an application from scratch. These tutorials are divided into different primary programming languages. Tutorials may involve multiple technologies and languages. |
 
 # ⚙️ Tools
 
@@ -155,7 +155,7 @@
 
 ## Companies Blogs
 
-* * :octocat: [Software Engineering Blogs](https://github.com/kilimchoi/engineering-blogs) ⭐ 38,728 | 🐛 151 | 🌐 Ruby | 📅 2024-08-21
+* * :octocat: [Software Engineering Blogs](https://github.com/kilimchoi/engineering-blogs) ⭐ 38,730 | 🐛 151 | 🌐 Ruby | 📅 2024-08-21
   * > A curated list of engineering blogs
 * [Amazon | Science](https://www.amazon.science)
 * [AWS Machine Learning Blog](https://aws.amazon.com/ru/blogs/machine-learning/)
@@ -196,4 +196,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-03._
