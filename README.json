@@ -57,7 +57,7 @@
                 "open_issues": 24,
                 "owner": "microsoft",
                 "repo": "Data-Science-For-Beginners",
-                "stars": 37687,
+                "stars": 37692,
                 "topics": [
                   "data-analysis",
                   "data-science",
@@ -85,7 +85,7 @@
                 "open_issues": 19,
                 "owner": "microsoft",
                 "repo": "ML-For-Beginners",
-                "stars": 91692,
+                "stars": 91711,
                 "topics": [
                   "data-science",
                   "education",
@@ -119,7 +119,7 @@
                 "open_issues": 6,
                 "owner": "louisfb01",
                 "repo": "start-machine-learning",
-                "stars": 5306,
+                "stars": 5308,
                 "topics": [
                   "artificial-intelligence",
                   "cheat-sheets",
@@ -200,7 +200,7 @@
             "open_issues": 77,
             "owner": "owainlewis",
             "repo": "awesome-artificial-intelligence",
-            "stars": 16713,
+            "stars": 16715,
             "topics": [
               "ai",
               "artificial-intelligence",
@@ -354,7 +354,7 @@
             "open_issues": 238,
             "owner": "practical-tutorials",
             "repo": "project-based-learning",
-            "stars": 287708,
+            "stars": 287815,
             "topics": [
               "beginner-project",
               "cpp",
@@ -531,7 +531,7 @@
                     "open_issues": 151,
                     "owner": "kilimchoi",
                     "repo": "engineering-blogs",
-                    "stars": 38804,
+                    "stars": 38805,
                     "topics": [
                       "engineering-blogs",
                       "lists",
@@ -607,7 +607,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-23T17:48:38.259Z",
+    "last_updated": "2026-10-24T16:29:42.854Z",
     "original_repository_info": {
       "archived": false,
       "description": "Projects and awesome list for all Data Science fields",
