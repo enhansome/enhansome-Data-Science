@@ -57,7 +57,7 @@
                 "open_issues": 26,
                 "owner": "microsoft",
                 "repo": "Data-Science-For-Beginners",
-                "stars": 37845,
+                "stars": 37856,
                 "topics": [
                   "data-analysis",
                   "data-science",
@@ -85,7 +85,7 @@
                 "open_issues": 21,
                 "owner": "microsoft",
                 "repo": "ML-For-Beginners",
-                "stars": 91877,
+                "stars": 91904,
                 "topics": [
                   "data-science",
                   "education",
@@ -200,7 +200,7 @@
             "open_issues": 81,
             "owner": "owainlewis",
             "repo": "awesome-artificial-intelligence",
-            "stars": 16749,
+            "stars": 16750,
             "topics": [
               "ai",
               "artificial-intelligence",
@@ -354,7 +354,7 @@
             "open_issues": 237,
             "owner": "practical-tutorials",
             "repo": "project-based-learning",
-            "stars": 288473,
+            "stars": 288575,
             "topics": [
               "beginner-project",
               "cpp",
@@ -531,7 +531,7 @@
                     "open_issues": 151,
                     "owner": "kilimchoi",
                     "repo": "engineering-blogs",
-                    "stars": 38836,
+                    "stars": 38843,
                     "topics": [
                       "engineering-blogs",
                       "lists",
@@ -607,7 +607,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-30T18:30:27.833Z",
+    "last_updated": "2026-10-31T17:34:51.754Z",
     "original_repository_info": {
       "archived": false,
       "description": "Projects and awesome list for all Data Science fields",
