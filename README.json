@@ -19,7 +19,7 @@
             "open_issues": 9,
             "owner": "jonkrohn",
             "repo": "ML-foundations",
-            "stars": 4913,
+            "stars": 4912,
             "topics": [
               "calculus",
               "computer-science",
@@ -54,10 +54,10 @@
                 "language": "Jupyter Notebook",
                 "license": "MIT",
                 "last_commit": "2026-10-21T03:27:14Z",
-                "open_issues": 26,
+                "open_issues": 27,
                 "owner": "microsoft",
                 "repo": "Data-Science-For-Beginners",
-                "stars": 37961,
+                "stars": 37969,
                 "topics": [
                   "data-analysis",
                   "data-science",
@@ -81,11 +81,11 @@
                 "id": 343965132,
                 "language": "Jupyter Notebook",
                 "license": "MIT",
-                "last_commit": "2026-11-06T19:44:53Z",
-                "open_issues": 25,
+                "last_commit": "2026-11-07T00:35:05Z",
+                "open_issues": 26,
                 "owner": "microsoft",
                 "repo": "ML-For-Beginners",
-                "stars": 92043,
+                "stars": 92051,
                 "topics": [
                   "data-science",
                   "education",
@@ -197,10 +197,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-08-15T08:12:01Z",
-            "open_issues": 82,
+            "open_issues": 81,
             "owner": "owainlewis",
             "repo": "awesome-artificial-intelligence",
-            "stars": 16792,
+            "stars": 16796,
             "topics": [
               "ai",
               "artificial-intelligence",
@@ -233,7 +233,7 @@
             "open_issues": 2,
             "owner": "eugeneyan",
             "repo": "ml-surveys",
-            "stars": 2903,
+            "stars": 2904,
             "topics": [
               "computer-vision",
               "deep-learning",
@@ -326,7 +326,7 @@
             "open_issues": 5,
             "owner": "data-folks",
             "repo": "data-science-learning-path",
-            "stars": 329,
+            "stars": 348,
             "topics": [
               "awesome-list",
               "data-science",
@@ -351,10 +351,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-11-02T06:38:53Z",
-            "open_issues": 238,
+            "open_issues": 239,
             "owner": "practical-tutorials",
             "repo": "project-based-learning",
-            "stars": 289200,
+            "stars": 289274,
             "topics": [
               "beginner-project",
               "cpp",
@@ -531,7 +531,7 @@
                     "open_issues": 151,
                     "owner": "kilimchoi",
                     "repo": "engineering-blogs",
-                    "stars": 38874,
+                    "stars": 38884,
                     "topics": [
                       "engineering-blogs",
                       "lists",
@@ -572,7 +572,7 @@
                     "open_issues": 4,
                     "owner": "towardsai",
                     "repo": "tutorials",
-                    "stars": 1034,
+                    "stars": 1035,
                     "topics": [
                       "collaborative-filtering",
                       "data-science",
@@ -607,7 +607,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-06T19:54:17.215Z",
+    "last_updated": "2026-11-07T17:58:38.707Z",
     "original_repository_info": {
       "archived": false,
       "description": "Projects and awesome list for all Data Science fields",
@@ -619,7 +619,7 @@
       "open_issues": 0,
       "owner": "ElizaLo",
       "repo": "Data-Science",
-      "stars": 412,
+      "stars": 413,
       "topics": [
         "awesome",
         "awesome-data-science",
